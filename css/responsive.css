@@ -1,0 +1,288 @@
+@media (min-width:1400px){
+    .contentstepone{
+        padding-left: 5%;
+        }
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+    .contentstepone{
+        padding-left: 15%;
+        }
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    #banner .banner-content h1{
+        font-size: 50px;
+        border-top: solid white;
+        border-bottom: solid white;
+        margin-bottom: 30px;
+    }
+    #banner .banner-content a{
+        font-size: 15px;
+        padding: 12px 30px;
+    }
+    .contentstepone{
+        padding-left: 20%;
+        }
+   .contentstepone h2{
+    font-size: 20px;
+    
+}
+.contentstepone p{
+    font-size: 15px;
+}
+
+.iconcontent h3{
+    font-size: 20px;
+}
+.iconcontent h6{
+    font-size: 15px;
+    
+}
+.formstep #name, #email{
+    width: 400px;
+    height: 50px;
+}
+.formstep #textarea{
+    width: 400px;
+    height: 250px;
+}
+}
+@media (min-width:768px) and (max-width:991.98px){
+    #banner .banner-content h1{
+        font-size: 40px;
+        border-top: solid white;
+        border-bottom: solid white;
+        margin-bottom: 30px;
+    }
+    #banner .banner-content a{
+        font-size: 15px;
+        padding: 12px 30px;
+    }
+    #banner{
+        height: 800px;
+    }
+    .banner-content{
+        margin-top: 20%;
+    }
+
+    #three-content .subitem h2{
+        font-size: 25px;
+    text-align: center;}
+        #three-content .subitem h6{
+            font-size: 14px;
+        text-align: center;} 
+       
+        .leftimg img{
+            display: flex;
+            margin: auto;
+        }
+        .contentstepone{
+            text-align: center;
+            padding: 20px 0px;
+            padding-left: 30px;
+        }
+       .skillcontent{
+        text-align: center;
+       }
+       #skillstep a{
+        padding: 10px 20px;
+        margin-bottom: 10%;
+    }
+    #skillstep .myskill h2{
+        font-size: 30px;
+    }
+    #skillstep .myskill p{
+        font-size: 15px; 
+    }
+    .manyskills{
+        margin: auto;
+    }
+    .formstep #name, #email{
+        width: 350px;
+        height: 50px;
+    }
+    .formstep #textarea{
+        width: 350px;
+        height: 250px;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+    #banner .banner-content h1{
+        font-size: 30px;
+        border-top: solid white;
+        border-bottom: solid white;
+        margin-bottom: 30px;
+    }
+    #banner .banner-content a{
+        font-size: 15px;
+        padding: 12px 30px;
+    }
+    #banner{
+        height: 600px;
+    }
+    .banner-content{
+        margin-top: 30%;
+    }
+    #three-content .subitem h2{
+        font-size: 25px;
+    text-align: center;}
+        #three-content .subitem h6{
+            font-size: 17px;
+        text-align: center;}
+        .leftimg img{
+            display: flex;
+            margin: auto;
+            height: 500px;
+        }
+        .contentstepone{
+            text-align: center;
+            padding: 20px 30px;
+        }
+        .leftimg img{
+            display: flex;
+            margin: auto;
+            height: 500px;
+        }
+        .contentstepone{
+            text-align: center;
+            padding: 20px 0px;
+            padding-left: 30px;
+        }
+        .contentstepone h2{
+            font-size: 20px;}
+            .contentstepone p{
+                font-size: 14px;
+            }
+            .iconcontent h3{
+                font-size: 18px;
+            }
+            .iconcontent h6{
+                font-size: 14px;
+            }
+            #skillstep a{
+                padding: 10px 20px;
+                margin-bottom: 10%;
+            }
+            #skillstep .myskill h2{
+                font-size: 25px;
+            }
+            #skillstep .myskill p{
+                font-size: 15px; 
+            }
+            .manyskills{
+                text-align: right;
+                margin-left: auto;
+            }
+            #skillstep .manyskills .backgroundhundred{
+                width: 90%;
+            }
+            .resumecontent p{
+                font-size: 16px;
+            }
+              .resumecontent a{
+                font-size: 13px;
+                padding: 10px 20px;
+            }
+            .formstep #name, #email{
+                width: 450px;
+                height: 50px;
+            }
+            .formstep #textarea{
+                width: 450px;
+                height: 250px;
+            }
+}
+
+@media (max-width: 575.98px){
+    #banner .banner-content h1{
+        font-size: 35px;
+        border-top: solid white;
+        border-bottom: solid white;
+        margin-bottom: 30px;
+    }
+    #banner .banner-content a{
+        font-size: 15px;
+        padding: 10px 25px;
+    }
+    #banner{
+        background: url(../image/bannercopy.jpg);
+        height: 600px;
+        background-size: cover;
+    }
+    .banner-content{
+        margin-top: 20%;
+    }
+    #three-content .subitem h2{
+        font-size: 25px;
+        text-align: center;
+    }
+        #three-content .subitem h6{
+            font-size: 14px;
+            text-align: center;
+    }
+        .leftimg img{
+            display: flex;
+            margin: auto;
+            height: 500px;
+        }
+        .contentstepone{
+            text-align: center;
+            padding: 20px 30px;
+        }
+        .contentstepone h2{
+            font-size: 20px;
+        }
+            .contentstepone p{
+                font-size: 14px;
+            }
+            .iconcontent h3{
+                font-size: 18px;
+            }
+            .iconcontent h6{
+                font-size: 14px;
+            } 
+            #skillstep a{
+                padding: 10px 20px;
+                margin-bottom: 10%;
+            }
+            #skillstep .myskill h2{
+                font-size: 25px;
+            }
+            #skillstep .myskill p{
+                font-size: 15px; 
+            }
+            #skillstep .manyskills{
+                text-align: center;
+                margin: auto;
+            }
+            #skillstep .manyskills .backgroundhundred{
+                width: 70%;
+                margin: auto;
+           }
+           #skillstep .manyskills h3{
+            font-size: 12px;
+           }
+           .resumecontent p{
+            font-size: 14px;
+        }
+          .resumecontent a{
+            font-size: 13px;
+            padding: 10px 20px;
+        }
+        .myeducation p{
+            font-size: 14px;
+        }
+        .myeducation h2{
+            font-size: 20px;
+        }
+        .formstep #name, #email{
+            width: 350px;
+            height: 50px;
+        }
+        .formstep #textarea{
+            width: 350px;
+            height: 250px;
+        }
+        .contactdetails{
+            margin-bottom: 5%;
+        }
+}
